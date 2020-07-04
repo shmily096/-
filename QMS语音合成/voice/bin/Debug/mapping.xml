@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--本xml文件中请将“=”替换为“+”，“&”替换为“#”-->
+<voiceMap>
+  <type key="TV1" value="http://172.26.6.158/QMSTV/TV_DeviceStatus.aspx"></type>
+  <type key="TV2" value="http://172.26.6.158/QMSTV/TV_Maintain.aspx"></type>
+  <type key="TV3" value="http://172.26.6.158/QMSTV/TV_QPMS.aspx?site+QSMC#type+SMT#loopsite+1#PU+ESBU"></type>
+  <type key="TV4" value="http://172.26.6.158/QMSTV/TV_QPMS.aspx?site+QSMC#type+FA#loopsite+1#PU+PU9"></type>
+  <type key="TV5" value="http://172.26.6.158/QKMS-PU9SMT-TV1/"></type>
+  <type key="TV6" value="http://172.26.6.158/QKMS-PU9FA-TV1/Forms/F2/FirstPage.aspx"></type>
+  <type key="TV7" value="http://172.26.6.158/quantacnRejectRate/PU9SMT/TV1/F3Line.aspx"></type>
+  <type key="TV8" value="http://172.26.6.158/DefectiveComponent/PU9SMT/TV1/WK1.aspx?"></type>
+  <type key="H3C" value="http://172.26.8.38:37799/"></type>
+  <type key="治具系统" value="http://172.26.6.6/fixturesystem/Login.aspx"></type>
+  <type key="UT" value="http://172.26.6.6/QMS_Ut/"></type>
+  <type key="关闭" value="欢迎下次使用"></type>
+</voiceMap>

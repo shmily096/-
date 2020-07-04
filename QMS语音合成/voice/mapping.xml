@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<voiceMap>
+  <!--<type key="百度" value="www.baidu.com"></type>-->
+  <type key="H3C" value="http://172.26.8.38:37799/"></type>
+  <type key="治具系统" value="http://172.26.6.6/fixturesystem/Login.aspx"></type>
+  <type key="UT" value="http://172.26.6.6/QMS_Ut/"></type>
+</voiceMap>
